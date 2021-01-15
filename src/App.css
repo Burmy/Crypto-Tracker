@@ -86,27 +86,27 @@
 .coin1{
   margin-left: 200px;
   color: #dba0f7;
-  font-size: 32px;
+  font-size: 30px;
   font-family: 'a Apple Tea Regular';
 }
 
 .price1{
   margin-left: 170px;
-  font-size: 32px;
+  font-size: 30px;
   color: #dba0f7;
   font-family: 'a Apple Tea Regular';
 }
 
 .volume1{
   margin-left: 145px;
-  font-size: 32px;
+  font-size: 30px;
   color: #dba0f7;
   font-family: 'a Apple Tea Regular';
 }
 
 .change1{
   margin-left: 80px;
-  font-size: 32px;
+  font-size: 30px;
   color: #dba0f7;
   font-family: 'a Apple Tea Regular';
   
@@ -114,7 +114,7 @@
 
 .mrkt1{
   margin-left: 60px;
-  font-size: 32px;
+  font-size: 30px;
   color: #dba0f7;
   font-family: 'a Apple Tea Regular';
 }
